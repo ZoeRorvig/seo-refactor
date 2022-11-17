@@ -21,7 +21,7 @@ The Horiseon website has been optimized for search engine and accessability purp
 
 ## Visuals 
 
-The following is the full webpage:
+The following is a screenshot of the full webpage:
 
 ![screenshot](assets/images/search-engine-optimization-webpage.jpg)
 
