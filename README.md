@@ -1,6 +1,6 @@
 # seo-refactor
 
-[Link to my project](https://github.com/ZoeRorvig/seo-refactor)
+[Link to my project](https://zoerorvig.github.io/seo-refactor/)
 
 ## Table of Contents
 - [Description](#description)
