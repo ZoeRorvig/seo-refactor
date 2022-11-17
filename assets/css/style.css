@@ -52,7 +52,7 @@ a:hover{
     text-decoration: underline;
 }
 
-/*Moved hero to better flow with HTML.*/
+/*shifted to better flow with HTML.*/
 .hero {
     height: 800px;
     width: 100%;
@@ -82,13 +82,13 @@ a:hover{
     max-height: 200px;
 }
 
-/*Moved to better flow with the HTML document.*/
+/*Shifted to better flow with the HTML document.*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/*Moved to better flow with the HTML document.*/
+/*Shifted to better flow with the HTML document.*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -99,12 +99,12 @@ a:hover{
     font-size: 36px;
 }
 
-/*Moved to better flow with the HTML document.*/
+/*Shifted to better flow with the HTML document.*/
 p {
     font-size: 16px;
 }
 
-/*Moved benefits and side-panel to better flow with HTML.*/
+/*Shifted "benefits" and "benefit" to better flow with HTML.*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,18 +116,18 @@ p {
     background-color: #2589bd;
 }
 
-/*Cleaned up "benefit" classes into one "side-panel" class, including h3 and img.*/
-.side-panel{
+/*Cleaned up "benefit" classes into one class, including h3 and img.*/
+.benefit{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.side-panel h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.side-panel img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
