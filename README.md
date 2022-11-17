@@ -11,7 +11,7 @@ The Horiseon website features information about Search Engine Optimization, Onli
 
 The Horiseon website has been optimized for search engine and accessability purposes:
 - The title has been changed from "website" to "Search Engine Optimization & Social Media Marketing | Horiseon" to provide greater context. 
-- Added metatags into the index.html file.
+- Added metatags - including description, keywords, author, and viewport. 
 - The "seo" in "Horiseon" now reads "Search Engine Optimization" when hovered over to improve understanding of the acronym "SEO."
 - All non-semantic tags (div and span) have been changed to semantic tags (including header, nav, abbreviation or abbr, section, main, article, aside, and footer). 
 - All internal linkage in the navigation bar has been reviewed and corrected, if needed. 
