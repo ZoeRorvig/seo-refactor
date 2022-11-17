@@ -23,12 +23,12 @@ The Horiseon website has been optimized for search engine and accessability purp
 
 The following is the full webpage:
 
-![screenshot](assets\images\search-engine-optimization-webpage.png)
+![screenshot](assets\images\search-engine-optimization-webpage.jpg)
 
 The following shows the reaction when "seo" in "Horiseon" is hovered over:
 
-![screenshot](assets\images\seo-acronym.PNG)
+![screenshot](assets\images\seo-acronym.jpg)
 
 The following shows the reaction when the navigation links are hovered over:
 
-![screenshot](assets\images\linkage-underline.PNG)
+![screenshot](assets\images\linkage-underline.jpg)
