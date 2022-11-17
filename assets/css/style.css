@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-/*Changed div to nav element.*/
+/*Changed div to the nav element in the following 3 sections to correspond with the HTML file change.*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -52,7 +52,7 @@ a:hover{
     text-decoration: underline;
 }
 
-/*shifted to better flow with HTML.*/
+/*Shifted "hero" in file to better flow with HTML layout.*/
 .hero {
     height: 800px;
     width: 100%;
@@ -82,13 +82,13 @@ a:hover{
     max-height: 200px;
 }
 
-/*Shifted to better flow with the HTML document.*/
+/*Shifted "float-left" in file to better flow with the HTML layout.*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/*Shifted to better flow with the HTML document.*/
+/*Shifted "float-right" in file to better flow with the HTML layout.*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -99,12 +99,12 @@ a:hover{
     font-size: 36px;
 }
 
-/*Shifted to better flow with the HTML document.*/
+/*Shifted "p" in file to better flow with the HTML layout.*/
 p {
     font-size: 16px;
 }
 
-/*Shifted "benefits" and "benefit" to better flow with HTML.*/
+/*Shifted "benefits" and "benefit" sections to better flow with HTML layout.*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
